@@ -56,7 +56,6 @@
 ewuiheiugh
 
 
-
 # Hi there, I'm Himanshu Kumar 👋
 
 Welcome to my GitHub profile! I'm a passionate **Frontend Web Developer** working at **The Entrepreneurship Network**. I specialize in creating beautiful and responsive websites and applications. Currently, I'm learning **Node.js** to broaden my backend development skills.
@@ -89,7 +88,7 @@ I work on creating seamless user experiences, and I've contributed to various ex
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/himanshukumar)
-- [GitHub](https://github.com/himanshukumar)
+- [GitHub](https://github.com/Himanshu0721)
 - [Portfolio](https://yourportfolio.com)
 
 ---
@@ -100,6 +99,4 @@ Thanks for visiting my profile! Feel free to check out my repositories, and let'
 
 📊 **GitHub Stats**
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshukumar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu0721&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
