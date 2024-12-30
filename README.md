@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/Himanshu0721)**
 
-- 💬 Ask me about   **Hi there! I'm Himanshu Singh Rajput, a passionate Frontend Developer dedicated to creating engaging, responsive, and user-friendly web applications. With expertise in modern frameworks and design principles, I aim to deliver seamless user experiences.**
+- 💬 Ask me about    ---- **Hi there! I'm Himanshu Singh Rajput, a passionate Frontend Developer dedicated to creating engaging, responsive, and user-friendly web applications. With expertise in modern frameworks and design principles, I aim to deliver seamless user experiences.**
 
 - 📫 How to reach me **himanshusinghrajput.0921@gmail.com**
 
