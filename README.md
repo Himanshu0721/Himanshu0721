@@ -19,7 +19,7 @@
 
 - 💬 Ask me about    ---- **Hi there! I'm Himanshu Singh Rajput, a passionate Frontend Developer dedicated to creating engaging, responsive, and user-friendly web applications. With expertise in modern frameworks and design principles, I aim to deliver seamless user experiences.**
 
-- 📫 How to reach me **himanshusinghrajput.0921@gmail.com**
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/himanshu-kumar-singh-0h000000021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkwend" height="30" width="40" /></a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
