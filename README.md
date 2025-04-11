@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/Himanshu0721)**
 
-- 💬 Ask me about    ---- **Hi there! I'm Himanshu Singh Rajput, a passionate Frontend Developer dedicated to creating engaging, responsive, and user-friendly web applications. With expertise in modern frameworks and design principles, I aim to deliver seamless user experiences.**
+- 💬 Ask me about    ---- **Front End Developer with 1 years of experience in building responsive and dynamic user interfaces using React. Proficient in JavaScript, HTML, CSS, and experienced with Redux, Node.js. Passionate about creating clean, efficient code and collaborating with cross-functional teams to deliver high-quality web applications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
