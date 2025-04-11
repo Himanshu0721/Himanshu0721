@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/himanshu-kumar-singh-0h000000021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkwend" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshu-kumar-singh-0hs00109921/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkwend" height="30" width="40" /></a>
 <a href="https://github.com/Himanshu0721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="codesanfdoirev" height="30" width="40" /></a>
 </p>
 
